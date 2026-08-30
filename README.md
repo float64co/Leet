@@ -12,15 +12,15 @@ holds past zero into a slower reverse) rather than free thrust, and
 wireframe ships and a rotating station to fly into, just like the
 original.
 
-## Play
+## Play online
 
-Open `index.html` in a browser (a Pyodide-powered build - first load
-fetches the Python runtime, ~12 MB, cached after). Not hosted anywhere
-yet; see `Terminal`'s and `TDFIF`'s READMEs in this project for how
-those got a `float64co.github.io` link, if you want to set one up the
-same way. Progress saves to that browser via localStorage (`Save
-Commander Log` at a station) - it isn't synced anywhere else, and
-clearing the browser's site data for this page will lose it.
+https://float64co.github.io/Leet/
+
+Or open `index.html` yourself in a browser (a Pyodide-powered build -
+first load fetches the Python runtime, ~12 MB, cached after). Progress
+saves to that browser via localStorage (`Save Commander Log` at a
+station) - it isn't synced anywhere else, and clearing the browser's
+site data for this page will lose it.
 
 ## Run locally
 
